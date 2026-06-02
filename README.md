@@ -1,6 +1,6 @@
 # 🎓 AI Sinkroni Guru-Murid — Forum Pendidikan
 
-> Pembentangan interaktif tentang hubungan **sinkroni otak** antara guru dan murid, kelebihan AI sebagai alat bantu, dan kerangka SEMAKAN untuk etika AI dalam pendidikan.
+> Pembentangan interaktif tentang **kerangka PAKSI** (mengapa AI tak boleh ganti guru), kelebihan AI sebagai alat bantu, dan kerangka **SEMAKAN** untuk etika AI dalam pendidikan.
 
 ## 🌐 Akses Pembentangan
 
@@ -11,21 +11,43 @@ https://<username-anda>.github.io/ai-sinkroni-guru-murid/
 
 ## 📖 Tentang Pembentangan Ini
 
-Pembentangan ini dibahagikan kepada **3 topik utama** yang sesuai untuk forum pendidikan:
+Pembentangan ini dibahagikan kepada **3 topik utama**:
 
 | Topik | Mesej Kunci | Idea Utama |
 |-------|-------------|------------|
-| 🧠 **Sinkroni** | Hubungan tidak boleh diprogram | Bukti neurosains mengapa AI tidak boleh menggantikan guru |
-| ⚡ **Jimat** | +6 minggu setahun | Bagaimana AI memperkasakan guru sebagai alat bantu |
+| 🧠 **PAKSI** | 5 paksi profesion keguruan | Pertimbangan, Akal, Kepakaran, Sinkroni, Ilham — 5 elemen yang AI tak boleh hasilkan |
+| ⚡ **Jimat** | +6 minggu setahun | Bagaimana AI menjimatkan masa guru sebagai alat bantu |
 | 🛡️ **Semakan** | Etika sebelum guna | Kerangka 7 langkah penggunaan AI yang beretika |
+
+## 🎯 Kerangka PAKSI (Topik 1)
+
+| Huruf | Elemen | Maksud |
+|-------|--------|--------|
+| **P** | Pertimbangan | Pertimbangan kompleks tentang setiap murid |
+| **A** | Akal Budi | Naluri yang terbina daripada pengalaman |
+| **K** | Kepakaran | Pastikan murid kuasai ilmu, bukan sekadar terima |
+| **S** | Sinkroni | Gelombang otak guru-murid pada Alpha 8–12 Hz |
+| **I** | Ilham | Sentuhan rohani & inspirasi ikhlas |
+
+## 🛡️ Kerangka SEMAKAN (Topik 3)
+
+| Huruf | Langkah | Maksud |
+|-------|---------|--------|
+| **S** | Semak Fakta | Fact-check output AI sebelum guna |
+| **E** | Etika Data | Lindungi privasi murid |
+| **M** | Manusia Memutuskan | Keputusan akhir di tangan guru |
+| **A** | Akauntabiliti | Guru bertanggungjawab penuh |
+| **K** | Ketelusan | Maklumkan murid & ibu bapa |
+| **A** | Adil & Saksama | Elakkan bias algoritma |
+| **N** | Namakan Semula | Anonymise identiti murid |
 
 ## 📚 Nota Istilah
 
 Perkataan **"sinkroni"** yang digunakan dalam pembentangan ini adalah **istilah rasmi Dewan Bahasa dan Pustaka (DBP)** sebagai padanan untuk istilah saintifik *"synchrony"* dalam pelbagai bidang termasuk:
-- 🔬 **Biologi & Genetik** (cth: "bereplikasi dengan sinkroni")
-- 🧪 **Bioteknologi** (cth: "kultur sinkroni")
-- ⚙️ **Kejuruteraan** (cth: "jangka masa sinkroni")
-- 💻 **Teknologi Maklumat** (cth: "pengkomputeran masa nyata sinkroni")
+- 🔬 Biologi & Genetik
+- 🧪 Bioteknologi
+- ⚙️ Kejuruteraan
+- 💻 Teknologi Maklumat
 
 Dalam konteks pembentangan ini, *"sinkroni otak"* merujuk kepada fenomena **brain-to-brain synchrony** yang dikaji oleh Davidesco et al. (2023) dalam jurnal *Psychological Science*.
 
@@ -34,6 +56,7 @@ Dalam konteks pembentangan ini, *"sinkroni otak"* merujuk kepada fenomena **brai
 1. **Buat repository baharu** di GitHub dengan nama: `ai-sinkroni-guru-murid`
 2. **Upload semua fail** dalam folder ini ke repository tersebut:
    - `index.html`
+   - `imej_paksi.png` (kerangka PAKSI)
    - `imej1.png` hingga `imej5.png`
    - `README.md` (fail ini)
 3. **Aktifkan GitHub Pages:**
@@ -48,7 +71,7 @@ Dalam konteks pembentangan ini, *"sinkroni otak"* merujuk kepada fenomena **brai
 ## 🎯 Ciri-ciri Pembentangan
 
 - ✅ **Responsive** — Sesuai dipaparkan di laptop, tablet, dan telefon
-- ✅ **Imej besar** — Setiap visual aid jelas dan menonjol
+- ✅ **6 visual besar** — Setiap kerangka & infografik jelas dan menonjol
 - ✅ **Prompt salin-tampal** — 4 prompt siap pakai untuk audiens cuba sendiri
 - ✅ **Navigasi cepat** — Boleh lompat ke mana-mana topik
 - ✅ **Single file** — Hanya satu `index.html` (mudah diurus)
@@ -87,4 +110,4 @@ Bahan ini disediakan untuk tujuan **pendidikan dan pembentangan forum sahaja**. 
 
 **Dibina dengan ❤️ untuk bakal-bakal pendidik Malaysia.**
 
-*Forum Pendidikan • AI Sinkroni Guru-Murid • 2026*
+*Forum Pendidikan • AI Sinkroni Guru-Murid • PAKSI · Jimat · Semakan • 2026*
